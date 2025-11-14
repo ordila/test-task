@@ -1,5 +1,13 @@
 # Frontend Test
 
+![Deployment Status](https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel)
+
+## 🌐 Live Demo
+
+You can view the working application here:
+
+[test-task-one-roan.vercel.app](https://test-task-one-roan.vercel.app/)
+
 Interactive React storefront that pulls a product catalog from a remote API and lets users manage a cart with local persistence.
 
 ## Features
