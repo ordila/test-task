@@ -208,8 +208,9 @@ export function CartModal({
             </div>
 
             <p className="mt-6 text-center text-xs text-slate-500">
-              * 10% discount automatically applies to items when ordering more
-              than 5 units.
+              * 10% discount automatically applies to items when the subtotal
+              exceeds $100. If the remaining full-price items exceed $1000, the
+              same discount is applied to them as well.
             </p>
           </div>
         )}
